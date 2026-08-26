@@ -10,3 +10,4 @@
 |LTE| - | - |업링크 이론 최대 50Mbps(Cat.4),실측 5~20Mbps|
 
 main test
+merge test
