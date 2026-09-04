@@ -9,6 +9,3 @@
 |RGB 카메라|30fps(33ms)|1920 x 1080 x 3 = 6220800 => 약6.22MB|6.22 x 30 x 8 = 약1493MB => 1.49GB/s|
 |LTE| - | - |업링크 이론 최대 50Mbps(Cat.4),실측 5~20Mbps|
 
-main test
-merge test
-rebase test 추가
